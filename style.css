@@ -1,0 +1,311 @@
+body
+{
+	margin: 0;
+    padding: 0;
+    height: 2000px;
+	
+	
+}
+
+.container
+{
+    width: 1150px;
+    margin: auto;
+}
+
+.header
+{
+    width: 100%;
+    height: 350px;
+    background-color: blueviolet;
+}
+
+.header .heading
+{
+    width: 50%;
+    float: left;
+    margin-top: 60px;
+    border-right: 1px solid darkgrey;
+}
+
+.header .heading h2
+{
+    width: 49%;
+    color: #fff;
+    line-height: 1.8;
+    font-size: 25px;
+}
+
+.header .heading h2 span
+{
+    cursor: pointer;
+    color: #00BC8A;
+}
+
+
+
+.header .lorem
+{
+    width: 40%;
+    margin-left: 3%;
+    float: left;
+    margin-top: 60px;
+    
+}
+
+.header .lorem p
+{
+    font-family: Tahoma;
+    color: darkgrey;
+    line-height: 1.8;
+    font-weight: bold;
+}
+
+.header .lorem button
+{
+    border: 0;
+    background: none;
+    color: #fff;
+    font-size: 20px;
+    background: #00BCBA;
+    padding: 15px;
+    border-radius:50px;
+    width: 200px;
+    text-transform: uppercase;
+    outline: 0
+}
+
+.magna
+{
+    width: 100%;
+    height: 350px;
+    border-bottom: 2px solid #DDD;
+    margin-top: 50px;
+}
+
+.magna .learn
+{
+    width: 50%;
+    float: left;
+    border-right:  2px solid #DDD;
+}
+
+.magna .learn h2
+{
+    font-family: Tahoma;
+    color: #777;
+    text-decoration: underline;
+}
+
+.magna .learn p
+{
+    line-height: 1.9;
+    font-family: Tahoma;
+    color: #888;
+}
+
+.magna .learn button
+{
+    border: 1px solid #DDD;
+    background-color: #fff;
+    padding: 15px;
+    border-radius: 30px;
+    width: 200px;
+    color: #DDD;
+    text-transform: uppercase;
+    cursor: pointer;
+    outline: 0;
+    
+}
+
+.magna .ipsum
+{
+    float: left;
+    width: 40%;
+    margin-left: 5%;
+    visibility: hidden
+}
+
+ .magna .ipsum .p
+{
+    line-height: 2;
+    font-family: Tahoma;
+    font-weight: bold;
+    color: #666;
+}
+
+ .magna .ipsum i
+{
+    padding-right: 25px;
+    color: #00BCBA;
+    
+}
+
+
+.pharetra
+{
+    width: 100%;
+    height: 1550px;
+    padding-top: 50px;
+    padding-bottom: 50px;
+    background-color: #F5F5F5
+   
+    
+}
+
+.clear
+{
+    clear: both;
+}
+
+
+.part
+{
+    margin-top: 50px
+}
+.pharetra .part img
+{
+    
+    width: 40%;
+    float: left;
+    overflow: hidden;
+     
+}
+
+.pharetra .part .he
+{
+    float: right;
+    width: 47%;
+    padding-top: 50px;
+    padding-left: 50px;
+     background-color:#EEEEEE;
+    height: 250px
+}
+
+.pharetra .part .he h2
+{
+    color: #777;
+    font-family: Tahoma;
+    text-decoration: underline;
+}
+
+.pharetra .part .he p
+{
+    color: #888;
+    font-family: Tahoma;
+    line-height: 2;
+    font-weight: bold;
+    
+    
+}
+
+.pharetra .part .he button
+{
+    background-color: none;
+    border: 1px solid #DDD;
+    width: 150px;
+    border-radius: 20px;
+    padding: 15px;
+    font-size: 20px;
+    color: #777;
+    text-transform: uppercase;
+    cursor: pointer;
+}
+
+.pharetra .part .he button:hover
+{
+    background-color: #777;
+    color: #fff;
+}
+
+/*form*/
+
+.form
+{
+    width: 100%;
+    height: 450px;
+    padding-top: 50px;
+    overflow: hidden;
+}
+
+.form .inputs
+{
+    width: 50%;
+    float: left;
+    border-right: 2px solid #DDD;
+}
+
+.form .inputs p
+{
+    line-height: 2;
+    font-family: Tahoma;
+    font-weight: bold;
+    color: #888;
+}
+
+
+.form .inputs input[type=text] ,[type=email]
+{
+    width: 250px;
+    height: 50px;
+    padding-left: 20px;
+    margin-bottom: 10px;
+     outline: 0;
+}
+
+.form .inputs textarea
+{
+    width: 505px;
+    padding-left: 20px;
+     outline: 0;
+}
+
+.form .inputs input[type=submit]
+{
+    width: 150px;
+    border: 1px solid #DDD;
+    border-radius: 20px;
+    padding: 15px;
+    margin-bottom: 15px;
+    margin-top: 15px;
+    cursor: pointer;
+    background-color: #fff;
+    outline: 0;
+}
+
+.form .links
+{
+    float: left;
+    padding-left: 50px;
+    padding-top: 50px;
+    
+}
+
+.form .links p
+{
+   line-height: 2.5;
+}
+
+
+.form .links p i
+{
+    padding-right: 15px;
+    color: #00BCBA
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
